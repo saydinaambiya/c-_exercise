@@ -16,7 +16,7 @@ This code prints the contents of string , a single space (), then the integer . 
 
 High 5
 Task
-Read  numbers from stdin and print their sum to stdout.
+Read 5 numbers from stdin and print their sum to stdout.
 
 Input Format
 
